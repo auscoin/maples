@@ -1,10 +1,10 @@
 Maples 
 
-110 Million Coins Total
+50 Million Coins Total
 
-200 per block halving every 1,000,000 blocks.
+8 per block halving every 1,500,000 blocks or 2 years.
 
-Approx 900 thousand mined coins and 900 million POS possible.
+Approx 30 Million coins mined/ 20 Million POS
 
 Proof of Stake 2%, 30 days/60 Max Weight
 
@@ -14,7 +14,7 @@ RPC Port =16100
 
 P2P Port = 16101
 
-45 Second Blocks
+60 Second Blocks
 
 20 Confirms per block
 
